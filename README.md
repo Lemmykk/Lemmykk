@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lemmykk
-- 👀 I’m interested in object-oriented programming languages
-- 🌱 I’m currently learning to program Java
-- 📫 How to reach me on linkedin: [https://www.linkedin.com/in/kadelacu/]
+-  Hi, I’m @Lemmykk
+-  I’m interested in object-oriented programming languages
+-  I’m currently learning to program Java
+-  How to reach me on linkedin: [https://www.linkedin.com/in/kadelacu/]
 
 
 <!---
